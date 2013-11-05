@@ -1,0 +1,10 @@
+
+PI_SIZE_X = 56;
+PI_SIZE_Y = 86;
+
+WT = 2.5;
+
+CASE_HEIGHT = 45;
+
+CLEARANCE = 0.2;
+
